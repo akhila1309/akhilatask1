@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  h1 {
+    font-family: sans-serif;
+  }
+
+ h2 {
+    font-family: cursive;
+  }
+  section {
+    border: 2px solid snow;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  li:hover {
+    color: snow;
+    cursor: pointer;
+  }
